@@ -1,7 +1,3 @@
-%Week 14 Assignmnent
-%Done by Madina Kanafina
-%12/6/2024
-
 clear; clc
 xL = 0.52;                    %left limit of x
 xR = 1.65;                    %right limit of x
