@@ -1,7 +1,3 @@
-%Week 14B (Part 2) Assignmnent 
-%Done by Madina Kanafina
-%12/6/2024
-
 clear; clc
 
 xL = 0;                    %left limit of x
